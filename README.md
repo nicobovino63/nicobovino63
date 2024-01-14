@@ -1,8 +1,8 @@
 The one of many, @nicobovino63
 - HTML is not real
 - cpp enthusiast
-- Gaming projects, embedded systems, not web dev
-- I only exist within the realm of Git
+- Gaming
+- I do not exist
 
 <!---
 nicobovino63/nicobovino63 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
